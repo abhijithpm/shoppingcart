@@ -1,0 +1,20 @@
+input[type=text] {
+    
+   border-radius: 5%;
+   padding: 4px;
+    margin: 4px;
+    border: 0;
+   
+  }
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    background-color:pink;
+    color:black;
+    border-radius: 10px;
+    height: 250px; 
+}

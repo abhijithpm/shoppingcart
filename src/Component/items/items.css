@@ -1,0 +1,35 @@
+.item-description{
+   display:  inline-block;
+}
+.item-title{
+    padding-left: 40px;
+}
+.item-list{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+}
+.item-container{
+    display: flex;
+}
+.item-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    width: 220px;
+    height: 350px;
+    margin: 40PX;
+    border-radius: 10%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.item-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 15%;
+    padding: 10px;
+
+}
